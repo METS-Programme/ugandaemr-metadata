@@ -1,0 +1,230 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 688410,
+      "sizes": {
+        "consume-shared": 126,
+        "javascript": 667712,
+        "share-init": 126,
+        "runtime": 20446
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "ee1278b358230da2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-flags-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "eebb1a97b246f66e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 40221,
+      "sizes": {
+        "javascript": 40221
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-patient-flags-app",
+        "main"
+      ],
+      "files": [
+        "553.js"
+      ],
+      "auxiliaryFiles": [
+        "553.js.map"
+      ],
+      "hash": "79ae80151a70acc6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12,
+      "sizes": {
+        "javascript": 12
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-flags-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "aec4e5623c0a6160",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 659990,
+      "sizes": {
+        "javascript": 659990
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-patient-flags-app"
+      ],
+      "files": [
+        "621.js"
+      ],
+      "auxiliaryFiles": [
+        "621.js.map"
+      ],
+      "hash": "97f1556d3a2b016b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 20227,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 126,
+        "runtime": 20059
+      },
+      "names": [
+        "@ugandaemr/esm-patient-flags-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-flags-app"
+      ],
+      "files": [
+        "esm-patient-flags-app.js"
+      ],
+      "auxiliaryFiles": [
+        "esm-patient-flags-app.js.map"
+      ],
+      "hash": "759475ae99fbc979",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-flags-app",
+        "main"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [
+        "784.js.map"
+      ],
+      "hash": "7ae81acbebb4c662",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 5376143,
+      "sizes": {
+        "javascript": 5376143
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-patient-flags-app",
+        "main"
+      ],
+      "files": [
+        "817.js"
+      ],
+      "auxiliaryFiles": [
+        "817.js.map"
+      ],
+      "hash": "4396e405b6aefb43",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7806,
+      "sizes": {
+        "consume-shared": 84,
+        "javascript": 7722
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-patient-flags-app"
+      ],
+      "files": [
+        "937.js"
+      ],
+      "auxiliaryFiles": [
+        "937.js.map"
+      ],
+      "hash": "05d554a99b24f146",
+      "childrenByOrder": {}
+    }
+  ]
+}

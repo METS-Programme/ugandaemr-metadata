@@ -1,0 +1,774 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "41.js"
+      ],
+      "auxiliaryFiles": [
+        "41.js.map"
+      ],
+      "hash": "e3be66034e675c2b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 420,
+      "sizes": {
+        "javascript": 420
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "50.js"
+      ],
+      "auxiliaryFiles": [
+        "50.js.map"
+      ],
+      "hash": "819d2eeea4c58f03",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3576,
+      "sizes": {
+        "javascript": 3576
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "55.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "bcd0b20579f78745",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 185950,
+      "sizes": {
+        "javascript": 185950
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "58.js"
+      ],
+      "auxiliaryFiles": [
+        "58.js.map"
+      ],
+      "hash": "53fa331a92d63b73",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 25530,
+      "sizes": {
+        "javascript": 25530
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "74.js"
+      ],
+      "auxiliaryFiles": [
+        "74.js.map"
+      ],
+      "hash": "4cb1f335a00d6d18",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3923,
+      "sizes": {
+        "javascript": 3923
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "99.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "65c53dcc7dd021b4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "102a704ccb5fd3ff",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3418,
+      "sizes": {
+        "javascript": 3418
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "132.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f8e2c42e3693aecc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3576,
+      "sizes": {
+        "javascript": 3576
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "197.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "03ddacd98965e9e5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 480,
+      "sizes": {
+        "javascript": 480
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "229.js"
+      ],
+      "auxiliaryFiles": [
+        "229.js.map"
+      ],
+      "hash": "d0e83b045f13b2ba",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 21353,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 336,
+        "runtime": 20975
+      },
+      "names": [
+        "@openmrs/esm-patient-medications-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app"
+      ],
+      "files": [
+        "openmrs-esm-patient-medications-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-patient-medications-app.js.map"
+      ],
+      "hash": "ff255cd1c06309af",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3576,
+      "sizes": {
+        "javascript": 3576
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "300.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6d76bd2286159343",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3827,
+      "sizes": {
+        "javascript": 3827
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "335.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a91a668ba83e0bac",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "cf0645e50bde7147",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 155993,
+      "sizes": {
+        "javascript": 155993
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app"
+      ],
+      "files": [
+        "361.js"
+      ],
+      "auxiliaryFiles": [
+        "361.js.map"
+      ],
+      "hash": "ad9fc1bf4dc70254",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 3824432,
+      "sizes": {
+        "javascript": 3824432
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "367.js"
+      ],
+      "auxiliaryFiles": [
+        "367.js.map"
+      ],
+      "hash": "dd17517ae1db9854",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 40067,
+      "sizes": {
+        "javascript": 40067
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "449.js"
+      ],
+      "auxiliaryFiles": [
+        "449.js.map"
+      ],
+      "hash": "b51ea61297b955da",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7160,
+      "sizes": {
+        "javascript": 7160
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "464.js"
+      ],
+      "auxiliaryFiles": [
+        "464.js.map"
+      ],
+      "hash": "b017245a4922cacc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 480,
+      "sizes": {
+        "javascript": 480
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "610.js"
+      ],
+      "auxiliaryFiles": [
+        "610.js.map"
+      ],
+      "hash": "62f00f4e99f1504b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 149243,
+      "sizes": {
+        "javascript": 149201,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app"
+      ],
+      "files": [
+        "623.js"
+      ],
+      "auxiliaryFiles": [
+        "623.js.map"
+      ],
+      "hash": "c91d983defff5f19",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 99584,
+      "sizes": {
+        "javascript": 99584
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "632.js"
+      ],
+      "auxiliaryFiles": [
+        "632.js.map"
+      ],
+      "hash": "1a17a9eb078fa3a5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 221362,
+      "sizes": {
+        "javascript": 221320,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "644.js"
+      ],
+      "auxiliaryFiles": [
+        "644.js.map"
+      ],
+      "hash": "a03b674b788d3892",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3355,
+      "sizes": {
+        "javascript": 3355
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "652.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "50b657f4c5933e12",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2687,
+      "sizes": {
+        "javascript": 2687
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "661.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4531bf024c460bda",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 168,
+      "sizes": {
+        "consume-shared": 168
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "3db004a9332db162",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 3023823,
+      "sizes": {
+        "consume-shared": 294,
+        "javascript": 3001759,
+        "share-init": 336,
+        "runtime": 21434
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "53bdc51e30e3f8c0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39719,
+      "sizes": {
+        "javascript": 39719
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "830.js"
+      ],
+      "auxiliaryFiles": [
+        "830.js.map"
+      ],
+      "hash": "f4522ef60a83dfca",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2671228,
+      "sizes": {
+        "javascript": 2671228
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "878.js"
+      ],
+      "auxiliaryFiles": [
+        "878.js.map"
+      ],
+      "hash": "4081f424849fb5ae",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2687,
+      "sizes": {
+        "javascript": 2687
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "879.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "22a4fb5ba4f6c77a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 251616,
+      "sizes": {
+        "javascript": 251616
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "913.js"
+      ],
+      "auxiliaryFiles": [
+        "913.js.map"
+      ],
+      "hash": "29d1a48121955a6d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 25337,
+      "sizes": {
+        "javascript": 25337
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "917.js"
+      ],
+      "auxiliaryFiles": [
+        "917.js.map"
+      ],
+      "hash": "f228e46188e78aa6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 233917,
+      "sizes": {
+        "javascript": 233917
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-medications-app",
+        "main"
+      ],
+      "files": [
+        "994.js"
+      ],
+      "auxiliaryFiles": [
+        "994.js.map"
+      ],
+      "hash": "5e74663addbe2af5",
+      "childrenByOrder": {}
+    }
+  ]
+}
