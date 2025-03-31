@@ -1,6 +1,6 @@
 {
   "name": "ART Regimen Change",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "description": "ART Regimen Switch and Substitution Form ",
   "encounter": "ART Regimen Change",
   "encounterType": "c11774c1-3b4a-4bdb-a847-6060895e006d",
@@ -10,7 +10,7 @@
   "retired": false,
   "pages": [
     {
-      "label": "ART Regimen Switch and Substitution Mwesigwa",
+      "label": "ART Regimen Switch and Substitution",
       "sections": [
         {
           "label": "Switch and Substitution Information",
