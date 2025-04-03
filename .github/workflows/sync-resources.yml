@@ -29,7 +29,7 @@ jobs:
             omod/src/main/webapp/resources/htmlforms \
             omod/src/main/webapp/resources/jsonforms \
             api/src/main/resources/metadata
-          git pull upstream main
+          git pull upstream master  # Changed to master branch
 
       - name: Move Files to Destination Structure
         run: |
@@ -41,5 +41,5 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git add configuration/forms/htmlforms configuration/forms/jsonforms configuration/metadata
-          git commit -m "Synced resources (htmlforms, jsonforms & metadata) from upstream main" || echo "No changes to commit"
-          git push origin main || echo "No changes to push"
+          git commit -m "Synced resources (htmlforms, jsonforms & metadata) from upstream master" || echo "No changes to commit"
+          git push origin master || echo "No changes to push"
