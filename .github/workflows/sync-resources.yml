@@ -27,6 +27,9 @@ jobs:
           git fetch upstream master
           git reset --hard upstream/master  # Force overwrite of destination with upstream
 
+      - name: Disable Sparse Checkout Warnings
+        run: git config --global advice.updateSparsePath false  # <--- ADDED HERE
+
       - name: Configure Sparse Checkout
         run: |
           git sparse-checkout init --cone
