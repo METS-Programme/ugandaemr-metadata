@@ -30,11 +30,16 @@ jobs:
       - name: Configure Sparse Checkout
         run: |
           git sparse-checkout init --cone
-          # Disable the default sparsity settings and allow full repository checkout for the paths we need
           git sparse-checkout set \
             omod/src/main/webapp/resources/htmlforms \
             omod/src/main/webapp/resources/jsonforms \
             api/src/main/resources/metadata
+
+      - name: Ensure Target Directories Exist
+        run: |
+          mkdir -p configuration/forms/htmlforms
+          mkdir -p configuration/forms/jsonforms
+          mkdir -p configuration/metadata
 
       - name: Sync Files from Upstream to Destination Structure
         run: |
