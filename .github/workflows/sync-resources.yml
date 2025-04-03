@@ -27,18 +27,17 @@ jobs:
           git fetch upstream master
           git reset --hard upstream/master  # Force overwrite of destination with upstream
 
-      - name: Enable Sparse Checkout and Sync Resources
+      - name: Configure Sparse Checkout
         run: |
           git sparse-checkout init --cone
+          # Disable the default sparsity settings and allow full repository checkout for the paths we need
           git sparse-checkout set \
             omod/src/main/webapp/resources/htmlforms \
             omod/src/main/webapp/resources/jsonforms \
             api/src/main/resources/metadata
-          git pull upstream master --no-rebase  # Ensure we’re pulling the latest from upstream
 
-      - name: Move Files to Destination Structure
+      - name: Sync Files from Upstream to Destination Structure
         run: |
-          mkdir -p configuration/forms/htmlforms configuration/forms/jsonforms configuration/metadata
           rsync -av omod/src/main/webapp/resources/htmlforms/ configuration/forms/htmlforms/
           rsync -av omod/src/main/webapp/resources/jsonforms/ configuration/forms/jsonforms/
           rsync -av api/src/main/resources/metadata/ configuration/metadata/
