@@ -521,7 +521,7 @@
               ]
             }
           },
-          "program-summary-dashboard": {
+          "programs-summary-dashboard": {
             "layoutMode": "anchored",
             "order": 2,
             "hideDashboardTitle": true,
@@ -595,6 +595,15 @@
             "Display conditions": {
               "privileges": [
                 "Manage conditions"
+              ]
+            }
+          },
+          "attachments-results-summary-dashboard":{
+            "layoutMode": "anchored",
+            "hideDashboardTitle": true,
+            "Display conditions": {
+              "privileges": [
+                "Manage patient attachments"
               ]
             }
           },
