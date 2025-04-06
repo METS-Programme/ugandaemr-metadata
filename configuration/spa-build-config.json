@@ -33,8 +33,7 @@
     "@openmrs/esm-patient-attachments-app": "next",
     "@openmrs/esm-patient-orders-app": "next",
     "@openmrs/esm-primary-navigation-app": "next",
-    "@openmrs/esm-patient-tests-app": "next",
-    "@openmrs/esm-patient-test-results-app": "next"
+    "@openmrs/esm-patient-tests-app": "next"
   },
   "importmap": "/openmrs/spa/importmap.json",
   "apiUrl": "/openmrs/",
