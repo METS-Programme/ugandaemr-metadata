@@ -424,7 +424,7 @@
           "clinical-appointments-dashboard": {
             "Display conditions": {
               "privileges": [
-                "Manage Patient Appointments"
+                "Manage Patient Appointments Link"
               ]
             }
           }
@@ -725,7 +725,7 @@
           "clinical-appointments-dashboard-link": {
             "Display conditions": {
               "privileges": [
-                "Manage Patient Appointments"
+                "Manage Patient Appointments Link"
               ]
             }
           },
