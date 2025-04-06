@@ -418,10 +418,18 @@
     }
   },
   "@openmrs/esm-home-app": {
-    "Display conditions": {
-      "privileges": [
-        "Access home app"
-      ]
+    "extensionSlots": {
+      "clinical-appointments-dashboard-slot": {
+        "configure": {
+          "clinical-appointments-dashboard": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Appointments"
+              ]
+            }
+          }
+        }
+      }
     }
   },
   "@ugandaemr/esm-login-app": {
@@ -708,7 +716,7 @@
           "clinical-appointments-dashboard-link": {
             "Display conditions": {
               "privileges": [
-                "Manage appointments dashboard"
+                "Manage Patient Appointments"
               ]
             }
           },
@@ -740,7 +748,6 @@
               ]
             }
           }
-          
         }
       }
     },
