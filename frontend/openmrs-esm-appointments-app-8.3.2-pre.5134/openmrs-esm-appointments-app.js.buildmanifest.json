@@ -1,0 +1,1696 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 24274,
+      "sizes": {
+        "javascript": 24274
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "2.js"
+      ],
+      "auxiliaryFiles": [
+        "2.js.map"
+      ],
+      "hash": "a39323f15577c447",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 5402841,
+      "sizes": {
+        "javascript": 5402841
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "130.js"
+      ],
+      "auxiliaryFiles": [
+        "130.js.map"
+      ],
+      "hash": "c35302b3c830a343",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 198330,
+      "sizes": {
+        "consume-shared": 168,
+        "javascript": 175071,
+        "share-init": 336,
+        "runtime": 22755
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "a70796b4251bbc03",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "236.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "02a0fb114d6c66d1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "fceb853fb1a5168f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 33453,
+      "sizes": {
+        "javascript": 33453
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "529.js"
+      ],
+      "auxiliaryFiles": [
+        "529.js.map"
+      ],
+      "hash": "36bcd23805dcc9d7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "539.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "9504db48c4364c0d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 88885,
+      "sizes": {
+        "javascript": 88885
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "600.js"
+      ],
+      "auxiliaryFiles": [
+        "600.js.map"
+      ],
+      "hash": "98f99183b8f8dc5b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 68467,
+      "sizes": {
+        "javascript": 68467
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "681.js"
+      ],
+      "auxiliaryFiles": [
+        "681.js.map"
+      ],
+      "hash": "5c15235631897685",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6543,
+      "sizes": {
+        "javascript": 6543
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "744.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "21a0699ab33700c4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "899.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "8169eb04b9d96498",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 41145,
+      "sizes": {
+        "javascript": 41145
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "968.js"
+      ],
+      "auxiliaryFiles": [
+        "968.js.map"
+      ],
+      "hash": "06860e92161d100b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 25608,
+      "sizes": {
+        "javascript": 25608
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "1325.js"
+      ],
+      "auxiliaryFiles": [
+        "1325.js.map"
+      ],
+      "hash": "e10fe89305b2e679",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4348,
+      "sizes": {
+        "javascript": 4348
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "1644.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "0744c01cbf3be319",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 287419,
+      "sizes": {
+        "javascript": 287419
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "1761.js"
+      ],
+      "auxiliaryFiles": [
+        "1761.js.map"
+      ],
+      "hash": "ad8f4d289e869232",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "a89c3863b8e316b7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "1901.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a1b1dbb2467f94c7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "2016.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "2b50c2a3bdf594f6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2704758,
+      "sizes": {
+        "javascript": 2704758
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "2417.js"
+      ],
+      "auxiliaryFiles": [
+        "2417.js.map"
+      ],
+      "hash": "bc6aeaa2a84296a6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 18333,
+      "sizes": {
+        "javascript": 18333
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "2499.js"
+      ],
+      "auxiliaryFiles": [
+        "2499.js.map"
+      ],
+      "hash": "c2fca4531fa64eef",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 166346,
+      "sizes": {
+        "javascript": 166346
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "2753.js"
+      ],
+      "auxiliaryFiles": [
+        "2753.js.map"
+      ],
+      "hash": "d324bc61617bf9ad",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7122,
+      "sizes": {
+        "javascript": 7122
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "2757.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "2ff6069242593bd2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "2784.js"
+      ],
+      "auxiliaryFiles": [
+        "2784.js.map"
+      ],
+      "hash": "98f82c9d9f6dc5ef",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 137844,
+      "sizes": {
+        "javascript": 137844
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "3260.js"
+      ],
+      "auxiliaryFiles": [
+        "3260.js.map"
+      ],
+      "hash": "4d1e1a6931216a3a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 24999,
+      "sizes": {
+        "javascript": 24999
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "3265.js"
+      ],
+      "auxiliaryFiles": [
+        "3265.js.map"
+      ],
+      "hash": "448786784c6dd3d9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 26475,
+      "sizes": {
+        "javascript": 26475
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "3372.js"
+      ],
+      "auxiliaryFiles": [
+        "3372.js.map"
+      ],
+      "hash": "669098fec47fdd25",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "3574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4b214f1c4cfd587f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 63580,
+      "sizes": {
+        "javascript": 63580
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "3581.js"
+      ],
+      "auxiliaryFiles": [
+        "3581.js.map"
+      ],
+      "hash": "f535643f0dd2f3c3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "1944447a1ee6f890",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "3652.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4d867172f58fc8b1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8126,
+      "sizes": {
+        "javascript": 8126
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "3952.js"
+      ],
+      "auxiliaryFiles": [
+        "3952.js.map"
+      ],
+      "hash": "b451b0ed39fa2347",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "4272.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "847206f8de079b0b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6729,
+      "sizes": {
+        "javascript": 6729
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "4378.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a3dd5fcd36e108c3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 248412,
+      "sizes": {
+        "javascript": 248412
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "4437.js"
+      ],
+      "auxiliaryFiles": [
+        "4437.js.map"
+      ],
+      "hash": "9e575a09edf9f382",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6159,
+      "sizes": {
+        "javascript": 6159
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "4460.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d20a689476f9bcb6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "4705.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "18bbbb9477713def",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "5240.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "aa76f69c89db5a8f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "5336.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "82770d08e6b6b1c9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 39672,
+      "sizes": {
+        "javascript": 39672
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "5501.js"
+      ],
+      "auxiliaryFiles": [
+        "5501.js.map"
+      ],
+      "hash": "644606537cebb12f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "5673.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "2bde0376a28d9687",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7090,
+      "sizes": {
+        "javascript": 7090
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "5711.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "3258256b393425c0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "5737.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ed243a0698ca9cdf",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 5683,
+      "sizes": {
+        "javascript": 5683
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "5833.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d9e3264eb88037e8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "5d16985fe6ad71f5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 223849,
+      "sizes": {
+        "javascript": 223849
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "5910.js"
+      ],
+      "auxiliaryFiles": [
+        "5910.js.map"
+      ],
+      "hash": "592b1f9f678f39ff",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 151633,
+      "sizes": {
+        "javascript": 151633
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "5930.js"
+      ],
+      "auxiliaryFiles": [
+        "5930.js.map"
+      ],
+      "hash": "da2c33c7d783d6cd",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6736,
+      "sizes": {
+        "javascript": 6736
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "5962.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "539fcf6856af042c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 126,
+      "sizes": {
+        "consume-shared": 126
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "fdd1700e8e11e68a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 23438,
+      "sizes": {
+        "javascript": 23438
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app"
+      ],
+      "files": [
+        "6179.js"
+      ],
+      "auxiliaryFiles": [
+        "6179.js.map"
+      ],
+      "hash": "b828a9f268b05bb7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "6497.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5b76de24acd7cdb8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6822,
+      "sizes": {
+        "javascript": 6822
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "6566.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "08595751b85156e9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 190348,
+      "sizes": {
+        "javascript": 190348
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "6591.js"
+      ],
+      "auxiliaryFiles": [
+        "6591.js.map"
+      ],
+      "hash": "882ea473baa1425c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "6727.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "76547834c308069e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 91301,
+      "sizes": {
+        "javascript": 91301
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "7382.js"
+      ],
+      "auxiliaryFiles": [
+        "7382.js.map"
+      ],
+      "hash": "ee2f0d24367d3549",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 135840,
+      "sizes": {
+        "javascript": 135840
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "7796.js"
+      ],
+      "auxiliaryFiles": [
+        "7796.js.map"
+      ],
+      "hash": "21eb847e14cac514",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6636,
+      "sizes": {
+        "javascript": 6636
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "7807.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "16bd13e1ba579425",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "7998.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "823b1031fafc86a5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 5070,
+      "sizes": {
+        "javascript": 5070
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "8271.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ab269d5578d92e16",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 137533,
+      "sizes": {
+        "javascript": 137533
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "8316.js"
+      ],
+      "auxiliaryFiles": [
+        "8316.js.map"
+      ],
+      "hash": "a81897667cb72cff",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6854,
+      "sizes": {
+        "javascript": 6854
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "8319.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "9ee4efbdbe4c37b5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6579,
+      "sizes": {
+        "javascript": 6579
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "8323.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "8c44cac1bb89a66a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2675,
+      "sizes": {
+        "javascript": 2675
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "8607.js"
+      ],
+      "auxiliaryFiles": [
+        "8607.js.map"
+      ],
+      "hash": "5506fc917ce29b54",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6580,
+      "sizes": {
+        "javascript": 6580
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "8788.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "df71679f428d5fac",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 274940,
+      "sizes": {
+        "javascript": 274940
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "9098.js"
+      ],
+      "auxiliaryFiles": [
+        "9098.js.map"
+      ],
+      "hash": "2622ccbffc72c60a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "9261.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "68dd6d8a7e7ae608",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 82997,
+      "sizes": {
+        "javascript": 82997
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "9269.js"
+      ],
+      "auxiliaryFiles": [
+        "9269.js.map"
+      ],
+      "hash": "891e3a149e1aa2d2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "b86b20068b051d06",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1036864,
+      "sizes": {
+        "javascript": 1036864
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "9441.js"
+      ],
+      "auxiliaryFiles": [
+        "9441.js.map"
+      ],
+      "hash": "18661deb44ad8202",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 22702,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 336,
+        "runtime": 22324
+      },
+      "names": [
+        "@openmrs/esm-appointments-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app"
+      ],
+      "files": [
+        "openmrs-esm-appointments-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-appointments-app.js.map"
+      ],
+      "hash": "5202cd6d049f8e0d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6581,
+      "sizes": {
+        "javascript": 6581
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "9579.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b8e8cbce57d70c2f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 19735,
+      "sizes": {
+        "javascript": 19735
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "9874.js"
+      ],
+      "auxiliaryFiles": [
+        "9874.js.map"
+      ],
+      "hash": "4ab911592c3ce3ff",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2280,
+      "sizes": {
+        "javascript": 2280
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-appointments-app",
+        "main"
+      ],
+      "files": [
+        "9890.js"
+      ],
+      "auxiliaryFiles": [
+        "9890.js.map"
+      ],
+      "hash": "faccddf9b7d14283",
+      "childrenByOrder": {}
+    }
+  ]
+}
