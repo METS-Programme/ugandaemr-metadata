@@ -457,10 +457,7 @@
     "loginBanner": {
       "src": "/openmrs/spa/banner.svg",
       "alt": "UgandaEMR+ logo"
-    },
-    "showCenteredLogin": true,
-    "supportEmail": "TBD",
-    "footerOpenMRSLogo": "omrs-logo-partial-mono"
+    }
   },
   "@openmrs/esm-primary-navigation-app": {
     "extensionSlots": {
