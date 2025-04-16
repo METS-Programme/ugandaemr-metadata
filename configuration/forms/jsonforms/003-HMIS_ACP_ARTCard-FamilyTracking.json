@@ -13,7 +13,7 @@
       "label": "HMIS ACP HIV 003: HIV CARE/ART CARD - Family Tracking Form ",
       "sections": [
         {
-          "label": "FAMILY TRACKING SECTION XXXXX",
+          "label": "FAMILY TRACKING SECTION",
           "isExpanded": "true",
           "questions": [
             {
