@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_ugandaemr_esm_data_visualizer_app=globalThis.webpackChunk_ugandaemr_esm_data_visualizer_app||[]).push([[574],{3574:a=>{a.exports=JSON.parse('{"casualGreeting":"hey","formalGreeting":"hello"}')}}]);
