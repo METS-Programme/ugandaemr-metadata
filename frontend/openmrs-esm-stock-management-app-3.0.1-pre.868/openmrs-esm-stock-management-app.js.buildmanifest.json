@@ -1,0 +1,844 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 48556,
+      "sizes": {
+        "javascript": 48556
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "10.js"
+      ],
+      "auxiliaryFiles": [
+        "10.js.map"
+      ],
+      "hash": "f836cf8ad4ff0f4c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1236590,
+      "sizes": {
+        "javascript": 1236422,
+        "consume-shared": 168
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app"
+      ],
+      "files": [
+        "14.js"
+      ],
+      "auxiliaryFiles": [
+        "14.js.map"
+      ],
+      "hash": "19b4b932f121b45a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 15418,
+      "sizes": {
+        "javascript": 15418
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "20.js"
+      ],
+      "auxiliaryFiles": [
+        "20.js.map"
+      ],
+      "hash": "367205a6f567b46f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 278229,
+      "sizes": {
+        "javascript": 278229
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "26.js"
+      ],
+      "auxiliaryFiles": [
+        "26.js.map"
+      ],
+      "hash": "bf5e0110b574d273",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 9330,
+      "sizes": {
+        "javascript": 9330
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "33.js"
+      ],
+      "auxiliaryFiles": [
+        "33.js.map"
+      ],
+      "hash": "bc1c66c74f7d99bc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 42642,
+      "sizes": {
+        "javascript": 42642
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "93.js"
+      ],
+      "auxiliaryFiles": [
+        "93.js.map"
+      ],
+      "hash": "59300aec830930b9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 66521,
+      "sizes": {
+        "javascript": 66521
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "119.js"
+      ],
+      "auxiliaryFiles": [
+        "119.js.map"
+      ],
+      "hash": "f95a0e820fecdb8a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 20972,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 210,
+        "runtime": 20720
+      },
+      "names": [
+        "@openmrs/esm-stock-management-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app"
+      ],
+      "files": [
+        "openmrs-esm-stock-management-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-stock-management-app.js.map"
+      ],
+      "hash": "9a99b0a34f667f93",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2965,
+      "sizes": {
+        "javascript": 2965
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "152.js"
+      ],
+      "auxiliaryFiles": [
+        "152.js.map"
+      ],
+      "hash": "2bc6d405b90a5461",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 31487,
+      "sizes": {
+        "javascript": 31487
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "172.js"
+      ],
+      "auxiliaryFiles": [
+        "172.js.map"
+      ],
+      "hash": "88fa4b13d03dcc48",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 5613135,
+      "sizes": {
+        "consume-shared": 210,
+        "javascript": 5591605,
+        "share-init": 210,
+        "runtime": 21110
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "d80163440b2e0cba",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2671,
+      "sizes": {
+        "javascript": 2671
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "235.js"
+      ],
+      "auxiliaryFiles": [
+        "235.js.map"
+      ],
+      "hash": "97881173e5a445f1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8120,
+      "sizes": {
+        "javascript": 8120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "271.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "67571844717f3958",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 31559,
+      "sizes": {
+        "javascript": 31559
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "290.js"
+      ],
+      "auxiliaryFiles": [
+        "290.js.map"
+      ],
+      "hash": "6818119ba0c530d7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "294.js"
+      ],
+      "auxiliaryFiles": [
+        "294.js.map"
+      ],
+      "hash": "c1ce890cbedb6cf3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 13352,
+      "sizes": {
+        "javascript": 13352
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "319.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "212523370ebec16d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 11121,
+      "sizes": {
+        "javascript": 11121
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "460.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "121c4ef0e9fc4b30",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 61369,
+      "sizes": {
+        "javascript": 61369
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "467.js"
+      ],
+      "auxiliaryFiles": [
+        "467.js.map"
+      ],
+      "hash": "eda382e4393e44d0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7160,
+      "sizes": {
+        "javascript": 7160
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "484.js"
+      ],
+      "auxiliaryFiles": [
+        "484.js.map"
+      ],
+      "hash": "0eb218fc21d670bb",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 13639,
+      "sizes": {
+        "javascript": 13639
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6dc63a99d2c7bbd8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 16600,
+      "sizes": {
+        "javascript": 16600
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "606.js"
+      ],
+      "auxiliaryFiles": [
+        "606.js.map"
+      ],
+      "hash": "7f242bd71b29a774",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39684,
+      "sizes": {
+        "javascript": 39684
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "629.js"
+      ],
+      "auxiliaryFiles": [
+        "629.js.map"
+      ],
+      "hash": "3f6bf4184ead1428",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 217823,
+      "sizes": {
+        "javascript": 217823
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "642.js"
+      ],
+      "auxiliaryFiles": [
+        "642.js.map"
+      ],
+      "hash": "14b764133b014b57",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "cb374d1c8f7aca10",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 27716,
+      "sizes": {
+        "javascript": 27716
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "675.js"
+      ],
+      "auxiliaryFiles": [
+        "675.js.map"
+      ],
+      "hash": "e24ac0c50e7eb51e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2718,
+      "sizes": {
+        "javascript": 2718
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "703.js"
+      ],
+      "auxiliaryFiles": [
+        "703.js.map"
+      ],
+      "hash": "c3acf7294d0d00f4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39414,
+      "sizes": {
+        "javascript": 39414
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "707.js"
+      ],
+      "auxiliaryFiles": [
+        "707.js.map"
+      ],
+      "hash": "5abd4259c621a893",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 13486,
+      "sizes": {
+        "javascript": 13486
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "757.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "fd6b9f5b0f1c7de5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 10071,
+      "sizes": {
+        "javascript": 10071
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "788.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "3f32b894414c9964",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 5392030,
+      "sizes": {
+        "javascript": 5392030
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "793.js"
+      ],
+      "auxiliaryFiles": [
+        "793.js.map"
+      ],
+      "hash": "7079af825a7748f6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 11866,
+      "sizes": {
+        "javascript": 11866
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "807.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "280b0ae7fdf58f36",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 10503,
+      "sizes": {
+        "javascript": 10503
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "833.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "27c91533423752b2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 4217650,
+      "sizes": {
+        "javascript": 4217650
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-stock-management-app"
+      ],
+      "files": [
+        "842.js"
+      ],
+      "auxiliaryFiles": [
+        "842.js.map"
+      ],
+      "hash": "bc573a8612cda582",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 137533,
+      "sizes": {
+        "javascript": 137533
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "935.js"
+      ],
+      "auxiliaryFiles": [
+        "935.js.map"
+      ],
+      "hash": "0b62e4cea3cb991b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 338735,
+      "sizes": {
+        "javascript": 338735
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-stock-management-app",
+        "main"
+      ],
+      "files": [
+        "987.js"
+      ],
+      "auxiliaryFiles": [
+        "987.js.map"
+      ],
+      "hash": "72ba819e6017e783",
+      "childrenByOrder": {}
+    }
+  ]
+}
