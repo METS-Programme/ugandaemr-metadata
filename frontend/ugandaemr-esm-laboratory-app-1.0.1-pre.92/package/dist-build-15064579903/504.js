@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_ugandaemr_esm_laboratory_app=globalThis.webpackChunk_ugandaemr_esm_laboratory_app||[]).push([[504],{6504:a=>{a.exports=JSON.parse('{"loading":"Cargando"}')}}]);
