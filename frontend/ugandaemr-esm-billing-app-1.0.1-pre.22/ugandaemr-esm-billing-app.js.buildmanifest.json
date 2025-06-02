@@ -1,0 +1,633 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 480,
+      "sizes": {
+        "javascript": 480
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "8.js"
+      ],
+      "auxiliaryFiles": [
+        "8.js.map"
+      ],
+      "hash": "831a94ab4b789b94",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4835,
+      "sizes": {
+        "javascript": 4835
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "55.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1b19079bff914746",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "008ef90300fab6db",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2917365,
+      "sizes": {
+        "javascript": 2917365
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "89.js"
+      ],
+      "auxiliaryFiles": [
+        "89.js.map"
+      ],
+      "hash": "00f97945ce7325d0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4835,
+      "sizes": {
+        "javascript": 4835
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "99.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1e69b7df7ced9ba3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 5377721,
+      "sizes": {
+        "javascript": 5377721
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "151.js"
+      ],
+      "auxiliaryFiles": [
+        "151.js.map"
+      ],
+      "hash": "0692b5f6b206ed88",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4835,
+      "sizes": {
+        "javascript": 4835
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "197.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "33ee5df0c76c9e69",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 29710,
+      "sizes": {
+        "javascript": 29710
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "255.js"
+      ],
+      "auxiliaryFiles": [
+        "255.js.map"
+      ],
+      "hash": "2d94e2b1d014f9c2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6781,
+      "sizes": {
+        "javascript": 6781
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "300.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6a59e26c25c3db98",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 21118,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 294,
+        "runtime": 20782
+      },
+      "names": [
+        "@ugandaemr/esm-billing-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app"
+      ],
+      "files": [
+        "ugandaemr-esm-billing-app.js"
+      ],
+      "auxiliaryFiles": [
+        "ugandaemr-esm-billing-app.js.map"
+      ],
+      "hash": "ec2c3b8b0fe7918a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4835,
+      "sizes": {
+        "javascript": 4835
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "335.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "fc2f6ff2e0438012",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 813176,
+      "sizes": {
+        "javascript": 813176
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-billing-app"
+      ],
+      "files": [
+        "358.js"
+      ],
+      "auxiliaryFiles": [
+        "358.js.map"
+      ],
+      "hash": "d835ff12fb04242b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 25530,
+      "sizes": {
+        "javascript": 25530
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "367.js"
+      ],
+      "auxiliaryFiles": [
+        "367.js.map"
+      ],
+      "hash": "40584d725cecf473",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "08847bd228e2afe0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "68b89cc6f735dcc2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "540.js"
+      ],
+      "auxiliaryFiles": [
+        "540.js.map"
+      ],
+      "hash": "f26a47b4e1e4b233",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 25337,
+      "sizes": {
+        "javascript": 25337
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "626.js"
+      ],
+      "auxiliaryFiles": [
+        "626.js.map"
+      ],
+      "hash": "c2d61e245a9b6193",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 480,
+      "sizes": {
+        "javascript": 480
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "627.js"
+      ],
+      "auxiliaryFiles": [
+        "627.js.map"
+      ],
+      "hash": "d3ae031c2de5d86e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 209870,
+      "sizes": {
+        "javascript": 209870
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "630.js"
+      ],
+      "auxiliaryFiles": [
+        "630.js.map"
+      ],
+      "hash": "e16e6b2117ed26a1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4835,
+      "sizes": {
+        "javascript": 4835
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "652.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c3363bd3503e32c7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 30788,
+      "sizes": {
+        "javascript": 30788
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "744.js"
+      ],
+      "auxiliaryFiles": [
+        "744.js.map"
+      ],
+      "hash": "9759f2bd96aebedc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 168,
+      "sizes": {
+        "consume-shared": 168
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "8fd8223982e30324",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 4997483,
+      "sizes": {
+        "consume-shared": 252,
+        "javascript": 4975690,
+        "share-init": 294,
+        "runtime": 21247
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "c57da753f0376ed3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 54195,
+      "sizes": {
+        "javascript": 54195
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "918.js"
+      ],
+      "auxiliaryFiles": [
+        "918.js.map"
+      ],
+      "hash": "fbc084e0f0b2a674",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 137533,
+      "sizes": {
+        "javascript": 137533
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-billing-app",
+        "main"
+      ],
+      "files": [
+        "961.js"
+      ],
+      "auxiliaryFiles": [
+        "961.js.map"
+      ],
+      "hash": "4d2171e1a9fff2a6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1219812,
+      "sizes": {
+        "javascript": 1219812
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-billing-app"
+      ],
+      "files": [
+        "981.js"
+      ],
+      "auxiliaryFiles": [
+        "981.js.map"
+      ],
+      "hash": "5861d69206756de5",
+      "childrenByOrder": {}
+    }
+  ]
+}

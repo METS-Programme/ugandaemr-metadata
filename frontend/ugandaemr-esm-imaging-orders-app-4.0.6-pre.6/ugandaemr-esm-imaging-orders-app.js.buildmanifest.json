@@ -1,0 +1,401 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app",
+        "main"
+      ],
+      "files": [
+        "41.js"
+      ],
+      "auxiliaryFiles": [
+        "41.js.map"
+      ],
+      "hash": "a234df6b25531f65",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 137481,
+      "sizes": {
+        "javascript": 137481
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app",
+        "main"
+      ],
+      "files": [
+        "144.js"
+      ],
+      "auxiliaryFiles": [
+        "144.js.map"
+      ],
+      "hash": "2ee630a53b65e796",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39672,
+      "sizes": {
+        "javascript": 39672
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app",
+        "main"
+      ],
+      "files": [
+        "225.js"
+      ],
+      "auxiliaryFiles": [
+        "225.js.map"
+      ],
+      "hash": "c5c885f88149a2d8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3613262,
+      "sizes": {
+        "javascript": 3613262
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app"
+      ],
+      "files": [
+        "232.js"
+      ],
+      "auxiliaryFiles": [
+        "232.js.map"
+      ],
+      "hash": "0a7f3de2dd485444",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3326,
+      "sizes": {
+        "javascript": 3326
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app",
+        "main"
+      ],
+      "files": [
+        "300.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6e98de7bf7e7d01f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 25608,
+      "sizes": {
+        "javascript": 25608
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app",
+        "main"
+      ],
+      "files": [
+        "372.js"
+      ],
+      "auxiliaryFiles": [
+        "372.js.map"
+      ],
+      "hash": "d977dc39c4616182",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "ecf0046a96c8e285",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "60dd0fa3ccb0a1fe",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 24274,
+      "sizes": {
+        "javascript": 24274
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app",
+        "main"
+      ],
+      "files": [
+        "495.js"
+      ],
+      "auxiliaryFiles": [
+        "495.js.map"
+      ],
+      "hash": "56bf7ea37aa44294",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 20718,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 252,
+        "runtime": 20424
+      },
+      "names": [
+        "@ugandaemr/esm-imaging-orders-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app"
+      ],
+      "files": [
+        "ugandaemr-esm-imaging-orders-app.js"
+      ],
+      "auxiliaryFiles": [
+        "ugandaemr-esm-imaging-orders-app.js.map"
+      ],
+      "hash": "e76b41d6152a475f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39408,
+      "sizes": {
+        "javascript": 39408
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app",
+        "main"
+      ],
+      "files": [
+        "606.js"
+      ],
+      "auxiliaryFiles": [
+        "606.js.map"
+      ],
+      "hash": "0305f717e9248fcc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 4410470,
+      "sizes": {
+        "consume-shared": 252,
+        "javascript": 4389139,
+        "share-init": 252,
+        "runtime": 20827
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "7c2c9207155f8172",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 638564,
+      "sizes": {
+        "javascript": 638396,
+        "consume-shared": 168
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app"
+      ],
+      "files": [
+        "818.js"
+      ],
+      "auxiliaryFiles": [
+        "818.js.map"
+      ],
+      "hash": "f4380ce2c90809cf",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 5377209,
+      "sizes": {
+        "javascript": 5377209
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app",
+        "main"
+      ],
+      "files": [
+        "831.js"
+      ],
+      "auxiliaryFiles": [
+        "831.js.map"
+      ],
+      "hash": "2416eeb608afb4ca",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 25557,
+      "sizes": {
+        "javascript": 25557
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app",
+        "main"
+      ],
+      "files": [
+        "876.js"
+      ],
+      "auxiliaryFiles": [
+        "876.js.map"
+      ],
+      "hash": "e69fa572e8e18d31",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 310566,
+      "sizes": {
+        "javascript": 310566
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-imaging-orders-app",
+        "main"
+      ],
+      "files": [
+        "913.js"
+      ],
+      "auxiliaryFiles": [
+        "913.js.map"
+      ],
+      "hash": "9a60ccbe03cde691",
+      "childrenByOrder": {}
+    }
+  ]
+}

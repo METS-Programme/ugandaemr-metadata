@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_ugandaemr_esm_billing_app=globalThis.webpackChunk_ugandaemr_esm_billing_app||[]).push([[8,627],{3627:(a,e,l)=>{l.r(e),l.d(e,{default:()=>d,immutable:()=>t});var i=l(7626),n=l(8487);const t=a=>(e,l,i)=>(i.revalidateOnFocus=!1,i.revalidateIfStale=!1,i.revalidateOnReconnect=!1,a(e,l,i)),d=(0,n.withMiddleware)(i.Ay,t)}}]);

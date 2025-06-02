@@ -1,0 +1,1438 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 158841,
+      "sizes": {
+        "javascript": 158841
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app"
+      ],
+      "files": [
+        "77.js"
+      ],
+      "auxiliaryFiles": [
+        "77.js.map"
+      ],
+      "hash": "761d3b5d4b2a665a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "723.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1d69eda8a77e60aa",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 969,
+      "sizes": {
+        "javascript": 969
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "795.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "504510aad767c610",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 5415231,
+      "sizes": {
+        "javascript": 5415231
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "831.js"
+      ],
+      "auxiliaryFiles": [
+        "831.js.map"
+      ],
+      "hash": "c57b6a05651ed61e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "890.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6e856493fc2aada4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 57070,
+      "sizes": {
+        "javascript": 57028,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app"
+      ],
+      "files": [
+        "915.js"
+      ],
+      "auxiliaryFiles": [
+        "915.js.map"
+      ],
+      "hash": "9facd9a5cc9720ae",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "986.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5149c95c814cea72",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "1119.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "8c96502ff959e0f5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "1197.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ee38faa3f5d6d6c1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "a4fa834574294eee",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "2146.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7ebc61747ea0805e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 25608,
+      "sizes": {
+        "javascript": 25608
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "2372.js"
+      ],
+      "auxiliaryFiles": [
+        "2372.js.map"
+      ],
+      "hash": "7847c09c4f4fa536",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 220546,
+      "sizes": {
+        "javascript": 220546
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "2684.js"
+      ],
+      "auxiliaryFiles": [
+        "2684.js.map"
+      ],
+      "hash": "25be8406f43ad832",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 958,
+      "sizes": {
+        "javascript": 958
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "2690.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5c40dd414a714083",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 251616,
+      "sizes": {
+        "javascript": 251616
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "2913.js"
+      ],
+      "auxiliaryFiles": [
+        "2913.js.map"
+      ],
+      "hash": "a0150d9ad5c4d067",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1046,
+      "sizes": {
+        "javascript": 1046
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "3099.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "62e61c7b5e2a709b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7160,
+      "sizes": {
+        "javascript": 7160
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "3464.js"
+      ],
+      "auxiliaryFiles": [
+        "3464.js.map"
+      ],
+      "hash": "2fef0cf1fbc18305",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "3584.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7e43bb1d69b7a102",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "4041.js"
+      ],
+      "auxiliaryFiles": [
+        "4041.js.map"
+      ],
+      "hash": "1e6161df96c57eda",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1050,
+      "sizes": {
+        "javascript": 1050
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "4055.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7699020e9ff9d81f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 898,
+      "sizes": {
+        "javascript": 898
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "4132.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "99bfa8afd37efb21",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "4300.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d09a7f17202e2646",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 969,
+      "sizes": {
+        "javascript": 969
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "4335.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ac179aebb7b8e7a9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "4618.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d49765d1e1328319",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 875,
+      "sizes": {
+        "javascript": 875
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "4652.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "65bc984b69a9ad9c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "4944.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4d63eb8512e561b0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "5173.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e156c4da1a86bbb9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "5241.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6d2c1019440587b6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "d86f7ca46a30ed5d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "5442.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b06b5b7513010c58",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 17648,
+      "sizes": {
+        "javascript": 17648
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "5608.js"
+      ],
+      "auxiliaryFiles": [
+        "5608.js.map"
+      ],
+      "hash": "c4b2384c9ce36608",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 722,
+      "sizes": {
+        "javascript": 722
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "5661.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "97a981f4b29712ef",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "6022.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f6e517230aa3cb15",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 985,
+      "sizes": {
+        "javascript": 985
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "6468.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ed06ea7cf1bbd7b2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1006,
+      "sizes": {
+        "javascript": 1006
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "6679.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "07672afe95900fba",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "6840.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "beeb2dc85820f41e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "6859.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5ea3fed9fb8178f0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 254448,
+      "sizes": {
+        "javascript": 254448
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "7038.js"
+      ],
+      "auxiliaryFiles": [
+        "7038.js.map"
+      ],
+      "hash": "a7e2922cd017fc83",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "7097.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "92340a192fe16b17",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "7159.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "eca8813d3783482c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 131685,
+      "sizes": {
+        "javascript": 131685
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "7400.js"
+      ],
+      "auxiliaryFiles": [
+        "7400.js.map"
+      ],
+      "hash": "1163f0b54e4fd643",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 252798,
+      "sizes": {
+        "javascript": 252714,
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "7405.js"
+      ],
+      "auxiliaryFiles": [
+        "7405.js.map"
+      ],
+      "hash": "9e8ff62d37bb7ab1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39684,
+      "sizes": {
+        "javascript": 39684
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "7449.js"
+      ],
+      "auxiliaryFiles": [
+        "7449.js.map"
+      ],
+      "hash": "206bd3e95ed5cc5f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 24274,
+      "sizes": {
+        "javascript": 24274
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "7495.js"
+      ],
+      "auxiliaryFiles": [
+        "7495.js.map"
+      ],
+      "hash": "03d17d8691d02985",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "7617.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "607fe89134cfec5d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2416262,
+      "sizes": {
+        "javascript": 2416262
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "7797.js"
+      ],
+      "auxiliaryFiles": [
+        "7797.js.map"
+      ],
+      "hash": "27f25bb6fb1e859b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 35706,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 35664
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "8094.js"
+      ],
+      "auxiliaryFiles": [
+        "8094.js.map"
+      ],
+      "hash": "61393e4b7a5a57ea",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "8163.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "53334bb16023d65e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "8349.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "11b544b94ae41d60",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "8618.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4cb28a86099d018f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 2654812,
+      "sizes": {
+        "consume-shared": 252,
+        "javascript": 2632131,
+        "share-init": 378,
+        "runtime": 22051
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "10b32e1c7e558b70",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 126,
+      "sizes": {
+        "consume-shared": 126
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "f2bd1a2c0fa51fd8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 943,
+      "sizes": {
+        "javascript": 943
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "9214.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c71b4cd52b67988e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 22011,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 378,
+        "runtime": 21591
+      },
+      "names": [
+        "@openmrs/esm-patient-immunizations-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app"
+      ],
+      "files": [
+        "openmrs-esm-patient-immunizations-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-patient-immunizations-app.js.map"
+      ],
+      "hash": "3b0345809ad4e264",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1020,
+      "sizes": {
+        "javascript": 1020
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "9538.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "cc4ec66f3db5fdb7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "9569.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "053b44179b9cc448",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39414,
+      "sizes": {
+        "javascript": 39414
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "9830.js"
+      ],
+      "auxiliaryFiles": [
+        "9830.js.map"
+      ],
+      "hash": "84483bd4f3229063",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 26475,
+      "sizes": {
+        "javascript": 26475
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "9876.js"
+      ],
+      "auxiliaryFiles": [
+        "9876.js.map"
+      ],
+      "hash": "c181c831afeab6ac",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 707,
+      "sizes": {
+        "javascript": 707
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "9879.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "be9a09b8e3a5451a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "9895.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "822bba9208fc4714",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "9900.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "cb49a880603aa2f6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 954,
+      "sizes": {
+        "javascript": 954
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-immunizations-app",
+        "main"
+      ],
+      "files": [
+        "9913.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d52c9e9f9918bc1e",
+      "childrenByOrder": {}
+    }
+  ]
+}

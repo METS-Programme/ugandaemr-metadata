@@ -1,0 +1,477 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7120,
+      "sizes": {
+        "javascript": 7120
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "41.js"
+      ],
+      "auxiliaryFiles": [
+        "41.js.map"
+      ],
+      "hash": "51a704bb532427f6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 137481,
+      "sizes": {
+        "javascript": 137481
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "144.js"
+      ],
+      "auxiliaryFiles": [
+        "144.js.map"
+      ],
+      "hash": "46c3e01f01ebea69",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39672,
+      "sizes": {
+        "javascript": 39672
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "225.js"
+      ],
+      "auxiliaryFiles": [
+        "225.js.map"
+      ],
+      "hash": "1584ae16c6e44788",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4742,
+      "sizes": {
+        "javascript": 4742
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "300.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "115e009e79902a95",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 515159,
+      "sizes": {
+        "javascript": 514991,
+        "consume-shared": 168
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app"
+      ],
+      "files": [
+        "322.js"
+      ],
+      "auxiliaryFiles": [
+        "322.js.map"
+      ],
+      "hash": "0e12ca818a59d244",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3635830,
+      "sizes": {
+        "javascript": 3635830
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app"
+      ],
+      "files": [
+        "331.js"
+      ],
+      "auxiliaryFiles": [
+        "331.js.map"
+      ],
+      "hash": "615e815528609127",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 25608,
+      "sizes": {
+        "javascript": 25608
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "372.js"
+      ],
+      "auxiliaryFiles": [
+        "372.js.map"
+      ],
+      "hash": "65c6fd67e6053e3a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "f356d80058ab1e59",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 117836,
+      "sizes": {
+        "javascript": 117836
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "424.js"
+      ],
+      "auxiliaryFiles": [
+        "424.js.map"
+      ],
+      "hash": "200fca7c68785216",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "db99efe400ad3ae2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 24274,
+      "sizes": {
+        "javascript": 24274
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "495.js"
+      ],
+      "auxiliaryFiles": [
+        "495.js.map"
+      ],
+      "hash": "004fce3f17f8aa34",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 20917,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 252,
+        "runtime": 20623
+      },
+      "names": [
+        "@ugandaemr/esm-procedure-orders-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app"
+      ],
+      "files": [
+        "ugandaemr-esm-procedure-orders-app.js"
+      ],
+      "auxiliaryFiles": [
+        "ugandaemr-esm-procedure-orders-app.js.map"
+      ],
+      "hash": "cca34d2a1b0659e8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39408,
+      "sizes": {
+        "javascript": 39408
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "606.js"
+      ],
+      "auxiliaryFiles": [
+        "606.js.map"
+      ],
+      "hash": "fb8a9119637cb9b3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 108295,
+      "sizes": {
+        "javascript": 108253,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "628.js"
+      ],
+      "auxiliaryFiles": [
+        "628.js.map"
+      ],
+      "hash": "0ade95c1dbbbc047",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 4309832,
+      "sizes": {
+        "consume-shared": 252,
+        "javascript": 4288302,
+        "share-init": 252,
+        "runtime": 21026
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "b029e38321bc16e1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 5377209,
+      "sizes": {
+        "javascript": 5377209
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "831.js"
+      ],
+      "auxiliaryFiles": [
+        "831.js.map"
+      ],
+      "hash": "d6faff79c1651514",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 25557,
+      "sizes": {
+        "javascript": 25557
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "876.js"
+      ],
+      "auxiliaryFiles": [
+        "876.js.map"
+      ],
+      "hash": "fd04512dbff4c2f0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 152926,
+      "sizes": {
+        "javascript": 152926
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "895.js"
+      ],
+      "auxiliaryFiles": [
+        "895.js.map"
+      ],
+      "hash": "0918761035f794ab",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 310566,
+      "sizes": {
+        "javascript": 310566
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@ugandaemr/esm-procedure-orders-app",
+        "main"
+      ],
+      "files": [
+        "913.js"
+      ],
+      "auxiliaryFiles": [
+        "913.js.map"
+      ],
+      "hash": "8791f394fb6aaf67",
+      "childrenByOrder": {}
+    }
+  ]
+}

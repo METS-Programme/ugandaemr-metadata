@@ -61,9 +61,9 @@
     }
   },
   "@openmrs/esm-styleguide": {
-    "Brand color #1": " #009384",
-    "Brand color #2": " #009384",
-    "Brand color #3": " #009384"
+    "Brand color #1": "#1a3054",
+    "Brand color #2": "#1a3054",
+    "Brand color #3": "#0078a6"
   },
   "@openmrs/esm-patient-biometrics-app": {
     "Display conditions": {
@@ -370,196 +370,7 @@
         "defaultOpen": false
       },
       {
-        "conceptUuid": "161497AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161498AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161499AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161501AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161506AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161508AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161510AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161512AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161514AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161515AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161517AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161518AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161520AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161532AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "161533AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "162630AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163342AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163436AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163602AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163610AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163625AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163628AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163631AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163652AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163679AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163697AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163700AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163701AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163702AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163708AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "163722AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "1eb05918-f50c-4cad-a827-3c78f296a10a",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "2cf5644d-73a7-42f2-b18c-f773f40b648c",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "5faffe89-397e-470c-a32b-e07d962d01b3",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "5827cc4c-8b35-483e-a460-9b76885cf9de",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "daebb483-4eef-42b5-9380-7dbfec2ef6ce",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "a9a5af0f-cb4e-4657-8ec0-a21772a02345",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "1c654215-fcc4-439f-a975-ced21995ed15",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "2772e8c9-c019-46db-9242-dcf81f975f50",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "5f02429c-f83d-48e3-b6f7-bc288aa20ca0",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "e56b2640-271a-4e63-933b-7e1c2a8e0e50",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "f274dcaa-e515-440e-bcd7-140a691587aa",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "7f420159-b843-44a7-b53c-c6ca52a53ec5",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "167178AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "167441AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "5b40edac-a7e2-11ed-afa1-0242ac120002",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "df09f8d4-fb7a-45a9-b309-240e700e37d3",
-        "defaultOpen": false
-      },
-      {
-        "conceptUuid": "1eb05918-f50c-4cad-a827-3c78f296a10a",
-        "defaultOpen": false
+        "conceptUuid": "a9a5af0f-cb4e-4657-8ec0-a21772a02345"
       }
     ],
     "orders": {
@@ -582,7 +393,8 @@
   },
   "@ugandaemr/esm-patient-registration-app": {
     "defaultPatientIdentifierTypes": [
-      "f0c16a6d-dc5f-4118-a803-616d0075d282"
+      "f0c16a6d-dc5f-4118-a803-616d0075d282",
+      "be8f222a-3751-4f93-8c74-3aff399c19b6"
     ],
     "logo": {
       "src": "/openmrs/spa/logo-white.svg",
@@ -730,10 +542,16 @@
           },
           "searchAddressByLevel": true
         }
+      },
+      "causeOfDeath": {
+        "conceptUuid": "dca2c3f2-30ab-102d-86b0-7a5022ba4115"
       }
     },
     "registrationObs": {
       "encounterTypeUuid": "1458b726-4a62-4444-be97-bb3e08c73745"
+    },
+    "causeOfDeath": {
+      "conceptUuid": "dca2c3f2-30ab-102d-86b0-7a5022ba4115"
     }
   },
   "@openmrs/esm-home-app": {
@@ -763,7 +581,10 @@
     "loginBanner": {
       "src": "/openmrs/spa/banner.svg",
       "alt": "UgandaEMR+ logo"
-    }
+    },
+    "showCenteredLogin": true,
+    "supportEmail": "epcare@gmail.com",
+    "footerOpenMRSLogo": "omrs-logo-white"
   },
   "@openmrs/esm-primary-navigation-app": {
     "extensionSlots": {
@@ -953,6 +774,13 @@
               ]
             }
           },
+          "billing-summary-dashboard-link":{
+            "Display conditions": {
+              "privileges": [
+                "Manage Patient Billing"
+              ]
+            }
+          },
           "clinical-views-divider": {
             "Display conditions": {
               "privileges": [
@@ -1075,6 +903,27 @@
                 "Manage Home Link"
               ]
             }
+          },
+          "imaging-orders-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Radiology"
+              ]
+            }
+          },
+          "procedure-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Procedures"
+              ]
+            }
+          },
+          "billing-dashboard-link": {
+            "Display conditions": {
+              "privileges": [
+                "Manage Billing"
+              ]
+            }
           }
         }
       }
@@ -1087,10 +936,14 @@
   "@openmrs/esm-patient-banner-app": {
     "extensionSlots": {
       "patient-actions-slot": {
-        "remove": [
-          "start-visit-button"
-        ],
         "configure": {
+          "start-visit-button": {
+            "Display conditions": {
+              "privileges": [
+                "Start Visit Button"
+              ]
+            }
+          },
           "stop-visit-button": {
             "Display conditions": {
               "privileges": [
@@ -1191,10 +1044,14 @@
   "@openmrs/esm-patient-search-app": {
     "extensionSlots": {
       "patient-actions-slot": {
-        "remove": [
-          "start-visit-button"
-        ],
         "configure": {
+          "start-visit-button": {
+            "Display conditions": {
+              "privileges": [
+                "Start Visit Button"
+              ]
+            }
+          },
           "stop-visit-button": {
             "Display conditions": {
               "privileges": [
@@ -1245,6 +1102,20 @@
         ]
       }
     }
+  },
+  "@ugandaemr/esm-billing-app": {
+    "serviceTypes": "609afe4f-d539-4dfe-896d-0b9897d0ee4a",
+    "defaultCurrency": "UGX",
+    "showEditBillButton": true
+  },
+  "@ugandaemr/esm-procedure-orders-app": {
+    "procedureConceptSetUuid": "83bdfa6a-0c51-428a-a08d-3922db216858",
+    "procedureResultEncounterType": "a4870f6d-ea06-4bbe-b775-bcbfb0816dbf",
+    "procedureComplicationGroupingConceptUuid": "941d42f3-1901-47d7-826f-403736388a62",
+    "procedureComplicationConceptUuid": "941d42f3-1901-47d7-826f-403736388a62"
+  },
+  "@ugandaemr/esm-imaging-orders-app": {
+    "radiologyConceptSetUuid": "4557f916-4f42-410a-96ad-39c59ad82553"
   },
   "core": {
     "Translation overrides": {
