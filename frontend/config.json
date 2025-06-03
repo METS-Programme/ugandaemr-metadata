@@ -28,8 +28,8 @@
       ]
     },
     "logo": {
-      "src": "/openmrs/spa/logo.svg",
-      "alt": "UgandaEMR+ logo"
+      "src": "/openmrs/spa/prisonemr-white-logo.png",
+      "alt": "PrisonEMR+ logo"
     },
     "extensionSlots": {
       "visit-header-right-slot": {
@@ -61,9 +61,9 @@
     }
   },
   "@openmrs/esm-styleguide": {
-    "Brand color #1": " #009384",
-    "Brand color #2": " #009384",
-    "Brand color #3": " #009384"
+    "Brand color #1": "#832322",
+    "Brand color #2": "#832322",
+    "Brand color #3": "#832322"
   },
   "@openmrs/esm-patient-biometrics-app": {
     "Display conditions": {
@@ -582,11 +582,13 @@
   },
   "@ugandaemr/esm-patient-registration-app": {
     "defaultPatientIdentifierTypes": [
-      "f0c16a6d-dc5f-4118-a803-616d0075d282"
+      "f0c16a6d-dc5f-4118-a803-616d0075d282",
+      "e7dad84a-9ae9-4be2-9ec2-62fc8832cffa",
+      "3cdd9f12-63a3-11ea-bc55-0242ac130003"
     ],
     "logo": {
-      "src": "/openmrs/spa/logo-white.svg",
-      "alt": "UgandaEMR+ logo"
+      "src": "/openmrs/spa/prisonemr-white-logo.png",
+      "alt": "PrisonEMR+ logo"
     },
     "sections": [
       "demographics",
@@ -601,11 +603,21 @@
         "name": "Demographics",
         "fields": [
           "alternativePhone",
+          "patientCategory",
+          "patientClassification",
           "maritalStatus",
           "nationality",
           "occupation",
           "education",
           "email"
+        ]
+      },
+      {
+        "id": "custom",
+        "name": "Classification",
+        "fields": [
+          "patientCategory",
+          "patientClassification"
         ]
       },
       {
@@ -696,6 +708,22 @@
         "validation": {
           "matches": "^0([0-9](?:(?:[0-9][0-9])|(?:0[0-8])|(4[0-1]))[0-9]{6})$"
         }
+      },{
+        "id": "patientClassification",
+        "type": "person attribute",
+        "uuid": "81241e88-5729-4b03-8aef-147ce7072c3e",
+        "answerConceptSetUuid":"9f86a944-eae5-456d-aa2c-635be2874eaf",
+        "label": "Patient Classification",
+        "validation": {
+        }
+      },{
+        "id": "patientCategory",
+        "type": "person attribute",
+        "uuid": "7caa927c-de24-43c6-a0ae-5e28681ea8f4",
+        "answerConceptSetUuid":"a884b887-72c5-4bb5-a7eb-9f05872544e0",
+        "label": "Prisoner Type",
+        "validation": {
+        }
       }
     ],
     "links": {
@@ -730,10 +758,16 @@
           },
           "searchAddressByLevel": true
         }
+      },
+      "causeOfDeath": {
+        "conceptUuid": "dca2c3f2-30ab-102d-86b0-7a5022ba4115"
       }
     },
     "registrationObs": {
       "encounterTypeUuid": "1458b726-4a62-4444-be97-bb3e08c73745"
+    },
+    "causeOfDeath": {
+      "conceptUuid": "dca2c3f2-30ab-102d-86b0-7a5022ba4115"
     }
   },
   "@openmrs/esm-home-app": {
@@ -753,16 +787,16 @@
   },
   "@ugandaemr/esm-login-app": {
     "logo": {
-      "src": "/openmrs/spa/logo.svg",
-      "alt": "UgandaEMR+ logo"
+      "src": "/openmrs/spa/updf-logo.png",
+      "alt": "PrisonEMR+ logo"
     },
     "loginBackground": {
       "src": "/openmrs/spa/background.png",
-      "alt": "UgandaEMR+ logo"
+      "alt": "PrisonEMR+ logo"
     },
     "loginBanner": {
-      "src": "/openmrs/spa/banner.svg",
-      "alt": "UgandaEMR+ logo"
+      "src": "/openmrs/spa/banner.png",
+      "alt": "PrisonEMR+ logo"
     }
   },
   "@openmrs/esm-primary-navigation-app": {
@@ -1080,17 +1114,21 @@
       }
     },
     "logo": {
-      "src": "/openmrs/spa/logo-white.svg",
-      "alt": "UgandaEMR+ logo"
+      "src": "/openmrs/spa/prisonemr-white-logo.png",
+      "alt": "PrisonEMR+ logo"
     }
   },
   "@openmrs/esm-patient-banner-app": {
     "extensionSlots": {
       "patient-actions-slot": {
-        "remove": [
-          "start-visit-button"
-        ],
         "configure": {
+          "start-visit-button": {
+            "Display conditions": {
+              "privileges": [
+                "Start Visit Button"
+              ]
+            }
+          },
           "stop-visit-button": {
             "Display conditions": {
               "privileges": [
@@ -1191,10 +1229,14 @@
   "@openmrs/esm-patient-search-app": {
     "extensionSlots": {
       "patient-actions-slot": {
-        "remove": [
-          "start-visit-button"
-        ],
         "configure": {
+          "start-visit-button": {
+            "Display conditions": {
+              "privileges": [
+                "Start Visit Button"
+              ]
+            }
+          },
           "stop-visit-button": {
             "Display conditions": {
               "privileges": [
