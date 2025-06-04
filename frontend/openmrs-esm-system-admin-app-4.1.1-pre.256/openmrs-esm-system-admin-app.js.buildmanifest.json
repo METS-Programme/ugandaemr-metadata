@@ -1,0 +1,1328 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1666459,
+      "sizes": {
+        "javascript": 1666459
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "59.js"
+      ],
+      "auxiliaryFiles": [
+        "59.js.map"
+      ],
+      "hash": "e424d88903de17c3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 16497,
+      "sizes": {
+        "javascript": 16497
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "700.js"
+      ],
+      "auxiliaryFiles": [
+        "700.js.map"
+      ],
+      "hash": "ec29aeae31fa8332",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "723.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7f1b6eb937dca04c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 119,
+      "sizes": {
+        "javascript": 119
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "795.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e1b9064ff3fcd2e2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "890.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "511de9e1606511b1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "986.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7a37431642857385",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "1119.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5ac8a143446756f9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "1197.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e5d1007bc49439c7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "fb4157ae5c29a397",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 21278,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 294,
+        "runtime": 20942
+      },
+      "names": [
+        "@openmrs/esm-system-admin-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app"
+      ],
+      "files": [
+        "openmrs-esm-system-admin-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-system-admin-app.js.map"
+      ],
+      "hash": "fc7937679d351d38",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "2146.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7a55ae72a0060b5a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 163792,
+      "sizes": {
+        "javascript": 163792
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "2457.js"
+      ],
+      "auxiliaryFiles": [
+        "2457.js.map"
+      ],
+      "hash": "d8fd2b36a4afce47",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 97,
+      "sizes": {
+        "javascript": 97
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "2690.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "92e346454ba70bfe",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 280928,
+      "sizes": {
+        "javascript": 280928
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "2913.js"
+      ],
+      "auxiliaryFiles": [
+        "2913.js.map"
+      ],
+      "hash": "d2996045f02aa0c5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 128,
+      "sizes": {
+        "javascript": 128
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "3099.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ab9cb3ca02103e82",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 137533,
+      "sizes": {
+        "javascript": 137533
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "3144.js"
+      ],
+      "auxiliaryFiles": [
+        "3144.js.map"
+      ],
+      "hash": "2502997c6b25b41a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "66678d7cbc921772",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7160,
+      "sizes": {
+        "javascript": 7160
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "3464.js"
+      ],
+      "auxiliaryFiles": [
+        "3464.js.map"
+      ],
+      "hash": "16b949bbe2bba397",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "3584.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "129940d62e140365",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "4041.js"
+      ],
+      "auxiliaryFiles": [
+        "4041.js.map"
+      ],
+      "hash": "76b05b567f171d13",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 127,
+      "sizes": {
+        "javascript": 127
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "4055.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "fa277a8ec4dd2746",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "4132.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d08988753c4e4e8a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "4300.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a1f98cb84dc23d73",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "4335.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "14131a327941ccde",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "4618.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "36467989abc3c20f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "4652.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "45a74ccfccada96f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "4944.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "dae1de1daf9f6f04",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "5173.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f98dfc1b4edbc245",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "5241.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "07a75082af55fbeb",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 4067558,
+      "sizes": {
+        "javascript": 4067558
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "5342.js"
+      ],
+      "auxiliaryFiles": [
+        "5342.js.map"
+      ],
+      "hash": "1e1acf9b3bf0ae9b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "5442.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1dfc56096b6cdf9e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "5661.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "8e21628e9037114c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "6022.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b6ac90a2e010ce7b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1373,
+      "sizes": {
+        "javascript": 1373
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app"
+      ],
+      "files": [
+        "6173.js"
+      ],
+      "auxiliaryFiles": [
+        "6173.js.map"
+      ],
+      "hash": "d3952d4f0ff2bb09",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "6966e1093f7e596c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 30208,
+      "sizes": {
+        "javascript": 30208
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "6336.js"
+      ],
+      "auxiliaryFiles": [
+        "6336.js.map"
+      ],
+      "hash": "b8bb3ff4d7ef5614",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "6468.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "28be75996b19ae5e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 569,
+      "sizes": {
+        "javascript": 569
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "6656.js"
+      ],
+      "auxiliaryFiles": [
+        "6656.js.map"
+      ],
+      "hash": "5449c4ad1fdf8d15",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "6679.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "3362fa10c2cce9bf",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "6840.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "be2ba410c74137c8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "6859.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "279b1d48ca2ae9d1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "7097.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "30d81a613a6d398e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "7159.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "fd5b265e8745729a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 27559,
+      "sizes": {
+        "javascript": 27517,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "7170.js"
+      ],
+      "auxiliaryFiles": [
+        "7170.js.map"
+      ],
+      "hash": "33d8432eb7d2e25f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "7617.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "be851b2a3ee00dc8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "8163.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "3ede0b82397f2ef7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "536b1944ae0a838c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "7d87e3e201045c46",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "8349.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "dd667f23da793ad2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "8618.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "27dde0f8f87e3dea",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 23074,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 1373,
+        "share-init": 294,
+        "runtime": 21365
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "184cadafff364e40",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "9214.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ea4f3087f9fca1fc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 121,
+      "sizes": {
+        "javascript": 121
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "9538.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7720fa65b41be144",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "9569.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "15fdddeffb3d25f3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "9879.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c577acff66482d49",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "9895.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c71d83ca54c7130b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "9900.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4bb30343a027ee60",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 104,
+      "sizes": {
+        "javascript": 104
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-system-admin-app",
+        "main"
+      ],
+      "files": [
+        "9913.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "8041a12b5f65748a",
+      "childrenByOrder": {}
+    }
+  ]
+}
