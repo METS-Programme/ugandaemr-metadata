@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_ugandaemr_esm_care_panel_app=globalThis.webpackChunk_ugandaemr_esm_care_panel_app||[]).push([[303,152],{2303:(a,e,l)=>{l.r(e),l.d(e,{default:()=>_,immutable:()=>t});var n=l(3255),r=l(3325);const t=a=>(e,l,n)=>(n.revalidateOnFocus=!1,n.revalidateIfStale=!1,n.revalidateOnReconnect=!1,a(e,l,n)),_=(0,r.withMiddleware)(n.ZP,t)}}]);
